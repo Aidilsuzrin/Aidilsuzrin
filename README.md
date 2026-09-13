@@ -1,16 +1,16 @@
 # Hi there, I'm Aidilsuzrin 👋
 
-Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate developer committed to building innovative solutions and contributing to meaningful projects.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Profession:** [Your profession here]
-- 🎯 **Focus:** [Your areas of focus]
-- 🌱 **Currently Learning:** [What you're learning]
-- 💬 **Ask Me About:** [Topics you enjoy discussing]
-- 📫 **Reach Me:** [Your contact information]
+- 💼 **Profession:** Software Developer
+- 🎯 **Focus:** Full-stack development, Problem-solving, Open-source contribution
+- 🌱 **Currently Learning:** Advanced system design patterns and cloud architecture
+- 💬 **Ask Me About:** Web development, coding best practices, tech stack decisions
+- 📫 **Reach Me:** [Add your contact info]
 
 ---
 
@@ -19,63 +19,105 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ### Languages
 - JavaScript / TypeScript
 - Python
-- [Add more languages]
+- Java
+- SQL
 
-### Tools & Frameworks
-- React / Vue / Angular
-- Node.js
-- [Add more tools]
+### Frontend
+- React
+- HTML5 & CSS3
+- Responsive Design
+- State Management (Redux, Context API)
 
-### Databases & Cloud
-- PostgreSQL / MongoDB
-- AWS / GCP / Azure
-- [Add more]
+### Backend
+- Node.js & Express
+- RESTful APIs
+- Database Design
+- Authentication & Authorization
+
+### Tools & DevOps
+- Git & GitHub
+- Docker
+- Linux/Unix
+- VS Code
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Firebase
 
 ---
 
 ## 🏆 Featured Projects
 
-### [Project Name 1](https://github.com/Aidilsuzrin/project-name)
-Brief description of what this project does and why it's meaningful.
+### [Project Name 1](https://github.com/Aidilsuzrin/project-1)
+A brief description of what this project does. What problem does it solve? What technologies were used?
 
-### [Project Name 2](https://github.com/Aidilsuzrin/project-name)
-Brief description of what this project does and why it's meaningful.
+**Tech Stack:** React, Node.js, PostgreSQL
 
-### [Project Name 3](https://github.com/Aidilsuzrin/project-name)
-Brief description of what this project does and why it's meaningful.
+---
+
+### [Project Name 2](https://github.com/Aidilsuzrin/project-2)
+A brief description of what this project does. Highlight key features or achievements.
+
+**Tech Stack:** Python, Django, MySQL
+
+---
+
+### [Project Name 3](https://github.com/Aidilsuzrin/project-3)
+A brief description of what this project does. What makes it special?
+
+**Tech Stack:** JavaScript, Firebase, Tailwind CSS
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aidilsuzrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidilsuzrin&show_icons=true&theme=default)
+![Aidilsuzrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidilsuzrin&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidilsuzrin&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidilsuzrin&layout=compact&theme=radical)
+
+---
+
+## 📈 Contributions & Achievements
+
+- 🎖️ Active open-source contributor
+- 📚 Always learning and exploring new technologies
+- 🤝 Love collaborating with fellow developers
+- 🔧 Experienced in full-stack development
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 [Portfolio Website](https://your-portfolio-url.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 [Email](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-## 📚 Latest Blog Posts
+## 📚 Latest Articles & Blog Posts
 
-- [Blog Post Title](https://your-blog-url.com)
-- [Blog Post Title](https://your-blog-url.com)
-
----
-
-## 💡 Fun Facts
-
-- 🎨 [A fun fact about yourself]
-- 🎮 [Another interest or hobby]
-- 🌍 [Something about your location or background]
+- 📝 [Coming Soon: Article Title](https://your-blog.com)
+- 📝 [Coming Soon: Article Title](https://your-blog.com)
 
 ---
 
-**Thank you for visiting my profile!** Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding! 🚀
+## 💡 Fun Facts About Me
+
+- 🎮 I love problem-solving and tackling challenging coding challenges
+- ☕ Fueled by coffee and curiosity
+- 🌍 Passionate about creating tech solutions that make a difference
+
+---
+
+## 📞 Let's Collaborate!
+
+I'm always open to collaborating on interesting projects and learning from the community. Feel free to:
+- ⭐ Star my repositories if you find them useful
+- 🍴 Fork and contribute to my projects
+- 💬 Reach out for discussions or partnerships
+- 🐛 Report issues or suggest improvements
+
+**Thank you for visiting my profile! Happy coding!** 🚀
+
